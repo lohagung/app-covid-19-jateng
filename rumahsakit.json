@@ -1,0 +1,350 @@
+[
+    {
+        "id": 1,
+        "rs": "RSUP Dr. Kariadi Semarang",
+        "kota": "Kota Semarang",
+        "telp": "(024) 8413476"
+    },
+    {
+        "id": 2,
+        "rs": "RSUD Dr. H. Soewondo Kendal",
+        "kota": "Kabupaten Kendal",
+        "telp": "(0294) 381433"
+    },
+    {
+        "id": 3,
+        "rs": "RSUD Dr. Moewardi Solo",
+        "kota": "Kota Surakarta",
+        "telp": "(0271) 634634"
+    },
+    {
+        "id": 4,
+        "rs": "RSUD Banyumas",
+        "kota": "Kabupaten Banyumas",
+        "telp": "(0281) 796182"
+    },
+    {
+        "id": 5,
+        "rs": "RSUD Loekmono Hadi Kudus",
+        "kota": "Kabupaten Kudus",
+        "telp": "(0291) 444001"
+    },
+    {
+        "id": 6,
+        "rs": "RSUD Dr. H. RM. Seoselo Tegal",
+        "kota": "Kabupaten Tegal",
+        "telp": "(0283) 491016"
+    },
+    {
+        "id": 7,
+        "rs": "RSUD Kraton Pekalongan",
+        "kota": "Kota Pekalongan",
+        "telp": "(0285) 421621"
+    },
+    {
+        "id": 8,
+        "rs": "RSUD Tidar Kota Magelang",
+        "kota": "Kota Magelang",
+        "telp": "(0293) 363636"
+    },
+    {
+        "id": 9,
+        "rs": "RSUD Prof. Dr. Margono Banyumas",
+        "kota": "Kabupaten Banyumas",
+        "telp": "(0281) 632708"
+    },
+    {
+        "id": 10,
+        "rs": "RSUP dr. Suraji Tirtonegoro Klaten",
+        "kota": "Kabupaten Klaten",
+        "telp": "(0272) 321020"
+    },
+    {
+        "id": 11,
+        "rs": "RSUD Kardinah Tegal",
+        "kota": "Kota Tegal",
+        "telp": "(0283) 350377 ; (0283) 350477"
+    },
+    {
+        "id": 12,
+        "rs": "RSUD K.R.M.T Wongsonegoro Semarang",
+        "kota": "Kota Semarang",
+        "telp": "(024) 6711500"
+    },
+    {
+        "id": 13,
+        "rs": "RS Paru Ario Wirawan",
+        "kota": "Kota Salatiga",
+        "telp": "(0298) 326130"
+    },
+    {
+        "id": 14,
+        "rs": "RSUD Tugurejo Semarang",
+        "kota": "Kota Semarang",
+        "telp": "(024) 7605297"
+    },
+    {
+        "id": 15,
+        "rs": "RSUD Salatiga",
+        "kota": "Kota Salatiga",
+        "telp": "(0298) 324074"
+    },
+    {
+        "id": 16,
+        "rs": "RSUD Ambarawa",
+        "kota": "Kabupaten Semarang",
+        "telp": "(0298) 591020"
+    },
+    {
+        "id": 17,
+        "rs": "RSUD Sunan Kalijaga Demak",
+        "kota": "Kabupaten Demak",
+        "telp": "(0291) 685018"
+    },
+    {
+        "id": 18,
+        "rs": "RSUD dr. R. Soedjati Grobogan",
+        "kota": "Kabupaten Grobogan",
+        "telp": "(0292) 421004"
+    },
+    {
+        "id": 19,
+        "rs": "RSU Sultan Agung Semarang",
+        "kota": "Kota Semarang",
+        "telp": "(024) 6580019"
+    },
+    {
+        "id": 20,
+        "rs": "RSU St. Elizabeth Semarang",
+        "kota": "Kota Semarang",
+        "telp": "(024) 8310035"
+    },
+    {
+        "id": 21,
+        "rs": "RSU Telogorejo Semarang",
+        "kota": "Kota Semarang",
+        "telp": "(024) 86466000"
+    },
+    {
+        "id": 22,
+        "rs": "RSU Columbia Asia Semarang",
+        "kota": "Kota Semarang",
+        "telp": "(024) 7629999"
+    },
+    {
+        "id": 23,
+        "rs": "RSU Bhakti Wira Tamtama Semarang",
+        "kota": "Kota Semarang",
+        "telp": "(024) 3555944"
+    },
+    {
+        "id": 24,
+        "rs": "RSU Bhayangkara Semarang",
+        "kota": "Kota Semarang",
+        "telp": "(024) 6720675"
+    },
+    {
+        "id": 25,
+        "rs": "RSU dr. Asmir Salatiga",
+        "kota": "Kota Salatiga",
+        "telp": "(0298) 326045"
+    },
+    {
+        "id": 26,
+        "rs": "RSU dr. Soedjono Magelang",
+        "kota": "Kota Magelang",
+        "telp": "(0293) 363061"
+    },
+    {
+        "id": 27,
+        "rs": "RSUD RAA Soewondo Pati",
+        "kota": "Kabupaten Pati",
+        "telp": "(0295) 381102"
+    },
+    {
+        "id": 28,
+        "rs": "RSUD RA Kartini Jepara",
+        "kota": "Kabupaten Jepara",
+        "telp": "(0291) 591175"
+    },
+    {
+        "id": 29,
+        "rs": "RSUD dr R. Soetrasno Rembang",
+        "kota": "Kabupaten Rembang",
+        "telp": "(0295) 691444"
+    },
+    {
+        "id": 30,
+        "rs": "RSUD dr. R. Soetijono Blora",
+        "kota": "Kabupaten Blora",
+        "telp": "(0296) 531118"
+    },
+    {
+        "id": 31,
+        "rs": "RSU Mardi Rahayu Kudus",
+        "kota": "Kabupaten Kudus",
+        "telp": "(0291) 438234"
+    },
+    {
+        "id": 32,
+        "rs": "RSUD Bendan Kota Pekalongan",
+        "kota": "Kota Pekalongan",
+        "telp": "(0285) 437222"
+    },
+    {
+        "id": 33,
+        "rs": "RSUD Kajen Kab Pekalongan",
+        "kota": "Kabupaten Pekalongan",
+        "telp": "(0285) 385231"
+    },
+    {
+        "id": 34,
+        "rs": "RSUD Batang",
+        "kota": "Kabupaten Batang",
+        "telp": "(0285) 4493034"
+    },
+    {
+        "id": 35,
+        "rs": "RSUD dr. M Ashari Pemalang",
+        "kota": "Kabupaten Pemalang",
+        "telp": "(0284) 321614"
+    },
+    {
+        "id": 36,
+        "rs": "RSUD Brebes",
+        "kota": "Kabupaten Brebes",
+        "telp": "(0283) 671431"
+    },
+    {
+        "id": 37,
+        "rs": "RSU Islam Harapan Anda Kota Tegal",
+        "kota": "Kota Tegal",
+        "telp": "(0283) 358244"
+    },
+    {
+        "id": 38,
+        "rs": "RSUD Cilacap",
+        "kota": "Cilacap",
+        "telp": "(0282) 533010"
+    },
+    {
+        "id": 39,
+        "rs": "RSUD Hj. Anna Lasmanah Banjarnegara",
+        "kota": "Banjarnegara",
+        "telp": "(0286) 591464"
+    },
+    {
+        "id": 40,
+        "rs": "RSUD dr. R. G. Taroenadibrata Purbalingga",
+        "kota": "Purbalingga",
+        "telp": "(0281) 891016"
+    },
+    {
+        "id": 41,
+        "rs": "RSUD Setjonegoro Wonosobo",
+        "kota": "Wonosobo",
+        "telp": "(0286) 321091"
+    },
+    {
+        "id": 42,
+        "rs": "RSUD dr. Soedirman Kab, Kebumen",
+        "kota": "Kebumen",
+        "telp": "(0287) 381101"
+    },
+    {
+        "id": 43,
+        "rs": "RST Wijayakusuma Purwokerto",
+        "kota": "Banyumas",
+        "telp": "(0281) 633062"
+    },
+    {
+        "id": 44,
+        "rs": "RSUD Kota Surakarta",
+        "kota": "Boyolali",
+        "telp": "(0271) 715300"
+    },
+    {
+        "id": 45,
+        "rs": "RSUD Ir. Soekarno Sukoharjo",
+        "kota": "Sukoharjo",
+        "telp": "(0271) 593118"
+    },
+    {
+        "id": 46,
+        "rs": "RSUD Pandan Arang Boyolali",
+        "kota": "Boyolali",
+        "telp": "(0276) 321065"
+    },
+    {
+        "id": 47,
+        "rs": "RSUD Bagas Waras Klaten",
+        "kota": "Klaten",
+        "telp": "(0272) 3359666"
+    },
+    {
+        "id": 48,
+        "rs": "RSUD Soehadi Prijonegoro Sragen",
+        "kota": "Sragen",
+        "telp": "(0271) 891068"
+    },
+    {
+        "id": 49,
+        "rs": "RSUD Karanganyar",
+        "kota": "Karanganyar",
+        "telp": "(0271) 495673"
+    },
+    {
+        "id": 50,
+        "rs": "RSUD dr. Soediran MS Wonogiri",
+        "kota": "Wonogiri",
+        "telp": "(0273) 321008"
+    },
+    {
+        "id": 51,
+        "rs": "RSU PKU Muh. Surakarta",
+        "kota": "Kota Surakarta",
+        "telp": "(0271) 714578"
+    },
+    {
+        "id": 52,
+        "rs": "RSU Islam Klaten",
+        "kota": "Klaten",
+        "telp": "(0272) 322252"
+    },
+    {
+        "id": 53,
+        "rs": "RS Kasih Ibu Surakarta",
+        "kota": "Kota Surakarta",
+        "telp": "(0271) 714422"
+    },
+    {
+        "id": 54,
+        "rs": "RS dr. Oen Surakarta",
+        "kota": "Kota Surakarta",
+        "telp": "(0271) 643139"
+    },
+    {
+        "id": 55,
+        "rs": "RST Slamet Riyadi Surakarta",
+        "kota": "Kota Surakarta",
+        "telp": "(0271) 714656"
+    },
+    {
+        "id": 56,
+        "rs": "RSUD Djoyonegoro Temanggung",
+        "kota": "Temanggung",
+        "telp": "(0293) 491119"
+    },
+    {
+        "id": 57,
+        "rs": "RSUD dr. Tjitrowardojo Purworejo",
+        "kota": "Purworejo",
+        "telp": "(0275) 321118"
+    },
+    {
+        "id": 58,
+        "rs": "RSUD Muntilan Kab Magelang",
+        "kota": "Magelang",
+        "telp": "(0293) 587004"
+    }
+]
